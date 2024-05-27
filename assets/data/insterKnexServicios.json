@@ -1,0 +1,13 @@
+{
+	"fk_empresa_id":1,
+	"fk_persona_id":1,
+	"nombre_servicio":"prueba",
+	"descripción":"primer servicio de prueba",
+	"total":70000,
+	"status":"solicitado",
+	"anticipo_pagado":21000,
+	"por_cobrar":49000,
+	"horas_contratadas":1,
+	"status_persona":"solicitado",
+	"status_empresa":"solicitado"
+}

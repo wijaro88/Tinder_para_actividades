@@ -1,0 +1,67 @@
+
+[{
+    "nombre_persona":"Manuel",
+    "apellido_persona":"Gonzalez",
+    "email":"manuel@gmail.com",
+	"password":"pruebapwd",
+    "locacion":"Bogotá D.C.",
+    "precio_servicio":"80000",
+    "perfil":"persona altamente capacitada para poder diseñar personajes",
+    "calificacion":"0",
+    "status":"activo"
+} 
+ ,
+  {
+    "nombre_persona": "Jorge",
+    "apellido_persona": "Castellanos",
+    "email": "jorgete@gmail.com",
+    "password": "pruebapwd",
+    "locacion": "Bogotá D.C.",
+    "precio_servicio": "80000",
+    "perfil": "persona altamente capacitada para poder diseñar personajes",
+    "calificacion": "0",
+    "status": "activo"
+  },
+  {
+    "nombre_persona": "Maria",
+    "apellido_persona": "Lopez",
+    "email": "maria@gmail.com",
+    "password": "testpassword9",
+    "locacion": "Medellin",
+    "precio_servicio": "75000",
+    "perfil": "Graphic Designer",
+    "calificacion": "4",
+    "status": "activo"
+  },
+	  {
+    "nombre_persona": "lina",
+    "apellido_persona": "murcia",
+    "email": "malina@gmail.com",
+    "password": "testpassword1",
+    "locacion": "Cali",
+    "precio_servicio": "75000",
+    "perfil": "Graphic Designer",
+    "calificacion": "4",
+    "status": "activo"
+  },  {
+    "nombre_persona": "Maria",
+    "apellido_persona": "Lopez",
+    "email": "maria@gmail.com",
+    "password": "testpassword1",
+    "locacion": "Medellin",
+    "precio_servicio": "75000",
+    "perfil": "Graphic Designer",
+    "calificacion": "4",
+    "status": "activo"
+  },  {
+    "nombre_persona": "Mariano",
+    "apellido_persona": "monseñor",
+    "email": "merequetengue@gmail.com",
+    "password": "testpassword3",
+    "locacion": "Bogota",
+    "precio_servicio": "75000",
+    "perfil": "Graphic Designer",
+    "calificacion": "4",
+    "status": "activo"
+  }
+]

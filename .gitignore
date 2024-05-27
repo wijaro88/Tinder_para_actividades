@@ -1,0 +1,6 @@
+*.autosave
+sql/diseñoDiagramaRelacional.dia~
+sql/modelo relacional base de datos.dia~
+node_modules/
+.env
+*.txt

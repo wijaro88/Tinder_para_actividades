@@ -1,0 +1,83 @@
+[
+    {
+     "nit": "765432-1",
+     "nombre_empresa": "Tech Solutions",
+     "direccion": "456 Elm Road",
+     "email": "techsolutions@example.com",
+     "telefono_empresa": "987-654-3210",
+     "estatus": "activo",
+     "password": "passwordTech"
+   }
+   ,{
+     "nit": "987654-3",
+     "nombre_empresa": "Design Studio",
+     "direccion": "789 Oak Avenue",
+     "email": "designstudio@example.com",
+     "telefono_empresa": "555-555-5555",
+     "estatus": "activo",
+     "password": "designPass"
+   },
+    {
+     "nit": "456123-5",
+     "nombre_empresa": "Restaurant XYZ",
+     "direccion": "321 Maple Lane",
+     "email": "restaurantxyz@example.com",
+     "telefono_empresa": "777-777-7777",
+     "estatus": "activo",
+     "password": "restaurant123"
+   },
+    {
+     "nit": "333222-0",
+     "nombre_empresa": "Global Corp",
+     "direccion": "555 Pine Road",
+     "email": "globalcorp@example.com",
+     "telefono_empresa": "111-222-3333",
+     "estatus": "activo",
+     "password": "globalPass"
+   },
+    {
+     "nit": "112233-4",
+     "nombre_empresa": "Shop Outlet",
+     "direccion": "777 Birch Street",
+     "email": "shopoutlet@example.com",
+     "telefono_empresa": "888-999-0000",
+     "estatus": "activo",
+     "password": "shopOutlet1"
+   },
+    {
+     "nit": "888777-2",
+     "nombre_empresa": "Consulting Inc",
+     "direccion": "999 Cedar Avenue",
+     "email": "consultinginc@example.com",
+     "telefono_empresa": "222-333-4444",
+     "estatus": "activo",
+     "password": "consultingPass"
+   },
+    {
+     "nit": "555444-8",
+     "nombre_empresa": "Fitness Center",
+     "direccion": "1010 Spruce Lane",
+     "email": "fitnesscenter@example.com",
+     "telefono_empresa": "777-888-9999",
+     "estatus": "activo",
+     "password": "fitness123"
+   },
+    {
+     "nit": "987654-0",
+     "nombre_empresa": "E-commerce Shop",
+     "direccion": "123 E-commerce Street",
+     "email": "ecommerceshop@example.com",
+     "telefono_empresa": "123-123-1234",
+     "estatus": "activo",
+     "password": "ecommercePass"
+   },
+    {
+     "nit": "777888-9",
+     "nombre_empresa": "Construction Co.",
+     "direccion": "1234 Construction Road",
+     "email": "constructionco@example.com",
+     "telefono_empresa": "888-777-6666",
+     "estatus": "activo",
+     "password": "constructionPass"
+   }
+   ]
